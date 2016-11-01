@@ -1,0 +1,52 @@
+h1 {
+	color: white;
+}
+h2 {
+	margin-bottom: 30px;
+	margin-top: 30px;
+}
+h3 {
+
+}
+p {
+
+}
+.box {
+	border: 2px solid #3cd6e6;
+	background-color: #c3b7ac;
+	color: white;
+	height: 1000px;
+	width: 96%;
+	margin: 2%;
+	position: relative;
+}
+#header-nav {
+  background-color: #b1dda1;
+  border-radius: 0;
+  border: 0;
+}
+#nav-list {
+  margin-top: 10px;
+}
+#nav-list a {
+  color: white;
+  text-align: center;
+}
+#nav-list a:hover {
+  background-color: #3cd6e6;
+  border-color: white;
+}
+#nav-list a span {
+  font-size: 1.8em;
+}
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar {
+  border: 1px solid #3cd6e6;
+  background-color: white;
+}
+.navbar-header button.navbar-toggle {
+  clear: both;
+  margin-top: -50px;
+  border-color: #3cd6e6;
+}
+
+
